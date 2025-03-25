@@ -117,7 +117,16 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>MetaMask Supporter is the customer server team of Metamask Exchange, an online platform for buying, selling and storing cryptocurrencies like Bitcoin, Ethereum, and others. 
+
+The Metamask Support team is responsible for: 
+
+1. Answering questions about Metamask services and features.
+2. Resolving issues with account transactions and payments.
+3. Providing guidance on Security verification and compliance.
+4. Assisting with technical problems such as login or connectivity issues. 
+
+You can typically contact Metamask Support through here.</p>
           </div>
         `
         break
